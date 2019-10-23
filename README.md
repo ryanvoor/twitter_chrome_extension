@@ -1,2 +1,2 @@
-# slack_chrome_extension
-added some minor spacing to the bottom of the slack website that triggers when I'm using it on vertical monitors to help my neck out.
+# twitter_chrome_extension
+hide the promoted tweets cuz they SUCK
